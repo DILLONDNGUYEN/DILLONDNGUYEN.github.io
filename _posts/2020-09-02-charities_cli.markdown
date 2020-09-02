@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Charities CLI"
-date:       2020-09-02 07:59:18 +0000
+date:       2020-09-02 03:59:19 -0400
 permalink:  charities_cli
 ---
 
